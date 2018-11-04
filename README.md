@@ -1,2 +1,4 @@
-# mediary.github.io
-SLE information page
+# SLE-Info-Page
+A website that provides information about lupus (SLE) disease
+
+# 
